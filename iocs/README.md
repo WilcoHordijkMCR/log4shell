@@ -21,6 +21,15 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | NLD verified source | https://thanksforallthefish.nl/log4j_hashes.txt (Thor format) |
 | NLD verified source| https://thanksforallthefish.nl/log4j_hashes_sha256.txt (line-by-line) |
 | NLD verified source | https://thanksforallthefish.nl/log4j_hashes_sha1md5.txt (line-by-line) |
+| cert-agid.gov.it (Contains scan IP's) | https://cert-agid.gov.it/download/log4shell-iocs.txt |
+| Nozomi Networks | https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/ |
+| NLD Police | https://thanksforallthefish.nl/log4j_hashes.txt (Thor format) Auto Updated every 15min |
+| NLD Police | https://thanksforallthefish.nl/log4j_hashes_sha256.txt (line-by-line)  Auto Updated every 15min |
+| NLD Police | https://thanksforallthefish.nl/log4j_hashes_sha1md5.txt (line-by-line)  Auto Updated every 15min |
+| NLD Police | https://thanksforallthefish.nl/log4j_domains.txt (Thor format)  Auto Updated every 15min |
+| NLD Police | https://thanksforallthefish.nl/log4j_urls.txt (line-by-line)  Auto Updated every 15min |
+| NLD Police | https://thanksforallthefish.nl/log4j_blocklist.txt (line-by-line)  Not Verified |
+
 
 ## List of IoC's from security vendors
 
@@ -39,6 +48,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | RiskIQ (IP's contain scan IP's) | https://community.riskiq.com/article/57abbfcf/indicators |
 | Valtix | https://valtix.com/blog/log4shell-observations/ |
 | Infoblox | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/log4j-exploit-harvesting/ |
+| Orange Cyberdefense (IP's contain scan IP's) | https://github.com/Orange-Cyberdefense/log4shell_iocs
 
 ## List of IoC's from Honeypot's
 | Note     | Links |
@@ -48,6 +58,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | yt0ng  | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
 | eromang | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
 | jamesspi | https://log4shell.threatsearch.io/ |
+| NOC.org | https://reputation.noc.org/jndi-attack-logs/ |
 
 
 ## Twitter IoC search tool
